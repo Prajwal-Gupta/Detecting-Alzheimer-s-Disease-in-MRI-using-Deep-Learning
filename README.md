@@ -3,18 +3,18 @@ Alzheimer's disease (AD) is a progressive disorder that causes difficulty in lan
 
 The images in the dataset are already preprocessed which makes it easier and faster to work with. The frequency of images of each category are: Class-1: 896, Class-2: 64, Class-3: 3200 and Class-4: 2240. 
 
-Distribution of images in the dataset-
+## Distribution of images in the dataset ##
 
 ![image](https://github.com/Prajwal-Gupta/Detecting-Alzheimer-s-Disease-in-MRI-using-Deep-Learning/assets/61011807/abbf7168-33a5-4bcb-a027-c1b3fe3baee4)
 
 
 
-Sample Dataset-
+## Sample Dataset- ##
 
 ![image](https://github.com/Prajwal-Gupta/Detecting-Alzheimer-s-Disease-in-MRI-using-Deep-Learning/assets/61011807/714cbd59-a9d9-4b25-9d83-76a908b70fe9)
 
 
 
-*This project was published as a paper in the International Conference of Internet of Things 2023
+*This project was published as a paper at the International Conference of Internet of Things 2023
 
 
